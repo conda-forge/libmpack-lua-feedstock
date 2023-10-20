@@ -1,13 +1,13 @@
 {% set name = "libmpack-lua" %}
-{% set version = "1.0.10" %}
+{% set version = "1.0.11" %}
 
 package:
-  name: {{ name }} 
+  name: {{ name }}
   version: {{ version }}
 
 source:
   url: https://github.com/libmpack/{{ name }}/releases/download/{{ version }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 18e202473c9a255f1d2261b019874522a4f1c6b6f989f80da93d7335933e8119
+  sha256: a2d9ec184867ab92ad86e251908619fa13e345b8f2c9bc99df4ac63c8039d796
 
 build:
   number: 0
