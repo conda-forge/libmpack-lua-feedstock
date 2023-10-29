@@ -20,7 +20,6 @@ requirements:
   build:
     - {{ compiler('c') }}
     - luarocks
-  host:
     - luajit-openresty
   run:
     - luajit-openresty
