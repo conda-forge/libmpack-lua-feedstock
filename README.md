@@ -190,8 +190,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@anjos](https://github.com/anjos/)
 * [@danielnachun](https://github.com/danielnachun/)
-
-
-<!-- dummy commit to enable rerendering -->
 
