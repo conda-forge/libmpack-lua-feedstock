@@ -1,5 +1,5 @@
 context:
-  version: 1.0.12
+  version: "1.0.13"
 
 package:
   name: libmpack-lua
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/libmpack/libmpack-lua/releases/download/${{ version }}/libmpack-lua-${{ version }}.tar.gz
-  sha256: 06b662b1f14cfaf592ecb3fab425bef20e51439509b7a1736a790ecc929ef8bf
+  sha256: dd52ab48f620a6d6acff04ac163d055213dc8950d0cb4899e4857b65252993d7
 
 build:
   number: 0
